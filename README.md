@@ -6,6 +6,6 @@ Write a python function that takes in a array of integers, sorts array ascending
 
 ## Approach & Efficiency
 Time Complexity: O(N^2)
-Space Complexity: O(N)
+Space Complexity: O(1)
 
 
