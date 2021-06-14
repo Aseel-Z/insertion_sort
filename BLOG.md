@@ -35,7 +35,7 @@ In the fourth pass through of the insertion sort, we assign the array element at
 
 
 ## Pass 5:
-![Pass 5](pass-6.PNG)
+![Pass 5](pass-5.PNG)
 
 In the fifth pass through of the insertion sort,  we assign the array element at index 5 to a temporary variable. We check if the fifth element is larger than temp. we re-assign sixth element to value of fifth element. We check again if the fourth element is larger than temp. we re-assign fifth element to value of fourth element.  We check again if the third element is larger than temp. we re-assign fourth element to value of third element. Then the second element is less than temp, so we re-assign third element to temp value.
 
