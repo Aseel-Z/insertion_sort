@@ -5,7 +5,7 @@ Write a python function that takes in a array of integers, sorts array ascending
 ![white board](code-challenge-InsertionSort-White-Board.PNG)
 
 ## Approach & Efficiency
-Time Complexity: O(N^N)
+Time Complexity: O(N^2)
 Space Complexity: O(N)
 
 
