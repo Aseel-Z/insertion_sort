@@ -8,3 +8,4 @@ def InsertionSort(arr):
                 j = j - 1
                 
         arr[j + 1] = temp
+     return arr
